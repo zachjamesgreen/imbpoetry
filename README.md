@@ -25,9 +25,9 @@ I should also see:
 
 ### Versions
 
-Rails 5.2.4.3
+Rails 5.2.6
 
-Ruby 2.5.3
+Ruby 2.7.2
 
 ### Setup
 
