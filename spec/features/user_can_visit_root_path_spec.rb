@@ -8,4 +8,7 @@ describe "User can visit root path" do
     expect(page).to have_content('Welcome to Poetry and Emotion')
     expect(page).to have_selector('input')
   end
+
+  it 'shows results on page'
+  
 end
